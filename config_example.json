@@ -1,0 +1,7 @@
+{
+    "dbLogging": true,
+    "botPrefix": "!",
+    "commandCooldown": 4,
+    "twitchClientId": "TWITCH_CLIENT_ID",
+    "twitchClientSecret": "TWITCH_CLIENT_SECRET"
+}
